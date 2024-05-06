@@ -1,0 +1,46 @@
+h2{
+    color:chartreuse;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: right;
+    border: double;
+    border-color:midnightblue;
+}
+body{
+    border: dotted;
+    color:darkgreen;
+    border-color: firebrick;
+}
+h1{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border: double;
+    border-color: green;
+}
+p{ 
+    color: gold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border: dotted;
+    text-align: left;
+    border-color: aquamarine;
+}
+img{
+    border: double;
+    border-color:darkslateblue;
+}
+ul{border: dotted;
+border-color: midnightblue;}
+li{
+    color: navy;
+}
+table{
+    border: double;
+    border-color: lightseagreen;
+    padding-right: 50px; 
+}
+td{
+    color: darkcyan;
+    padding-bottom: 75px;
+    padding-left: 25px;
+    border: double;
+    border-color: chartreuse;
+}
